@@ -1,0 +1,11 @@
+*{
+    color: blue;
+}
+
+#SubmitButton {
+    background-color: rgb(213, 206, 206);
+}
+
+label {
+    color: palevioletred;
+}
